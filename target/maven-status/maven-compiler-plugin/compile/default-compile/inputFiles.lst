@@ -1,0 +1,17 @@
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\AberturaordensservicoApplication.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\controller\EquipamentoController.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\controller\OrdemServicoController.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\controller\SetorController.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\dto\EncerramentoRequest.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\dto\EquipamentoRequest.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\dto\OrdemServicoRequest.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\exception\ValidationExptionHandles.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\model\Equipamento.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\model\OrdemServico.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\model\Setor.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\repository\EquipamentoRepository.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\repository\OrdemServicoRepository.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\repository\SetorRepository.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\service\EquipamentoService.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\service\OrdemServicoService.java
+C:\Users\Imobiliária\Downloads\backUpOrdensServicos-main\backUpOrdensServicos-main\src\main\java\br\com\ordensservico\aberturaordensservico\service\SetorService.java
